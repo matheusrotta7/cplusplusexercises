@@ -1,0 +1,3 @@
+/home/matheus/CLionProjects/codasip_interview/cmake-build-debug/CMakeFiles/codasip_interview.dir
+/home/matheus/CLionProjects/codasip_interview/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matheus/CLionProjects/codasip_interview/cmake-build-debug/CMakeFiles/rebuild_cache.dir
